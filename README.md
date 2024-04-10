@@ -1,5 +1,5 @@
 # GravitySFML
-This project was created by accident, because the author started studying Astronomy.
+This project was created by accident, because the author started studying Astronomy & Physics.
 You can modify it however you like for your scientific purposes
 
 # Wiki:
