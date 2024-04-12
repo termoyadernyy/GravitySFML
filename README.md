@@ -8,7 +8,9 @@ You can modify it however you like for your scientific purposes
 3) https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
 4) https://en.wikipedia.org/wiki/Inverse-square_law
 5) https://en.wikipedia.org/wiki/Two-body_problem
-6) https://en.wikipedia.org/wiki/Three-body_problem\
+6) https://en.wikipedia.org/wiki/Three-body_problem
+
+![SFML](https://github.com/termoyadernyy/GravitySFML/assets/90852088/3f31e314-fb76-4b60-bb23-ad6b0a026d9b)
 
 # How to create and build this project in Visual Studio?
 1) Download it.
